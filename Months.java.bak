@@ -1,0 +1,20 @@
+class Months 
+{
+	public static void main(String[] args) 
+	{
+		
+		int months= 20;
+		//System.out.println(months/);
+		int i=12%months;
+		
+		int j= months/12;
+		
+		
+		
+		System.out.println(j+(i/10.0));
+		
+		
+			
+		
+	}
+}
